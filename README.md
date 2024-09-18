@@ -34,3 +34,5 @@ System Requirements
 
 If you are running on local development, we recommend using AMPPS stack which has all the system requirements Download AMPPS available in Windows, Mac, Linux Installers.
 
+
+68747470733a2f2f692e706f7374696d672e63632f354e62475a704a592f6d616e616765722d64617368626f6172642e706e67.png
